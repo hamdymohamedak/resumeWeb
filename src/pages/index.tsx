@@ -126,9 +126,6 @@ const Resume = () => {
             An AI chatbot using Google Gemini API and React Larose Library.
           </li>
           <li>
-            <strong>inmotion production:</strong> From 2021 to 2022.
-          </li>
-          <li>
             <strong
               onClick={() => {
                 window.open("https://larose.vercel.app");
@@ -138,9 +135,6 @@ const Resume = () => {
             </strong>{" "}
             A React library offering a comprehensive collection of hooks and
             components.
-          </li>
-          <li>
-            <strong>Freelancer:</strong> From 2022 to 2024.
           </li>
           <li>
             <strong
