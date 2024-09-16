@@ -107,6 +107,7 @@ const Resume = () => {
         <ul>
           <li>
             <strong
+              style={{color:"blue"}}
               onClick={() => {
                 window.open("https://amt-egypt.vercel.app");
               }}
@@ -117,6 +118,7 @@ const Resume = () => {
           </li>
           <li>
             <strong
+              style={{color:"blue"}}
               onClick={() => {
                 window.open("https://magia-chat.vercel.app");
               }}
@@ -127,6 +129,7 @@ const Resume = () => {
           </li>
           <li>
             <strong
+              style={{color:"blue"}}
               onClick={() => {
                 window.open("https://larose.vercel.app");
               }}
@@ -138,6 +141,7 @@ const Resume = () => {
           </li>
           <li>
             <strong
+              style={{color:"blue"}}
               onClick={() => {
                 window.open("https://ses-pi.vercel.app/");
               }}
@@ -148,6 +152,7 @@ const Resume = () => {
           </li>
           <li>
             <strong
+              style={{color:"blue"}}
               onClick={() => {
                 window.open("https://elmaram.vercel.app");
               }}
@@ -158,6 +163,7 @@ const Resume = () => {
           </li>
           <li>
             <strong
+              style={{color:"blue"}}
               onClick={() => {
                 window.open("https://hamdymohamedak.github.io/vithub/");
               }}
@@ -168,6 +174,7 @@ const Resume = () => {
           </li>
           <li>
             <strong
+              style={{color:"blue"}}
               onClick={() => {
                 window.open("https://ak-macros.vercel.app");
               }}
@@ -178,6 +185,7 @@ const Resume = () => {
           </li>
           <li>
             <strong
+              style={{color:"blue"}}
               onClick={() => {
                 window.open("https://github.com/hamdymohamedak/css-vita");
               }}
@@ -189,6 +197,7 @@ const Resume = () => {
           </li>
           <li>
             <strong
+              style={{color:"blue"}}
               onClick={() => {
                 window.open("https://rsto.vercel.app");
               }}
@@ -199,6 +208,7 @@ const Resume = () => {
           </li>
           <li>
             <strong
+              style={{color:"blue"}}
               onClick={() => {
                 window.open("https://hamdymohamedak.github.io/WasSender/");
               }}
